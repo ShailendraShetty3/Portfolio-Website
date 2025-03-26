@@ -3,18 +3,21 @@ export const skillsData = [
   "CSS",
   "Javascript",
   "React",
-  "NodeJS",
+  "nodejs",
   "django",
-  "FastAPI",
+  "fastapi",
   "python",
   "ViteJS",
   "Git",
   "MaterialUI",
   "Bootstrap",
-  "Antd",
+  "antd",
   "docker",
   "postgresql",
+  "mysql",
   "mongodb",
+  "aws",
+  "figma"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

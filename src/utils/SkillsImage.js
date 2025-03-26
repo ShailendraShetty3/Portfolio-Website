@@ -85,13 +85,14 @@ export const skillsImage = (skill) => {
       return html;
     case "photoshop":
       return photoshop;
-    case "Ant Design":
+
+    case "antd":
       return antd;
 
-    case "NodeJS":
+    case "nodejs":
       return nodejs;
 
-    case "FastAPI":
+    case "fastapi":
       return fastapi;
 
     case "docker":
