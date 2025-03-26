@@ -16,7 +16,7 @@ export const UserData = {
     },
     {
       socialMediaName: "twitter",
-      url: "",
+      url: "https://x.com/Shailendra19893",
       icon: "AiOutlineTwitter",
     },
     // {
@@ -30,7 +30,7 @@ export const UserData = {
       "Full-Stack Developer",
       "Software Developer",
       "Software Engineer",
-      "MERN Stack Developer",
+      // "MERN Stack Developer",
     ],
     autoStart: true,
     loop: true,

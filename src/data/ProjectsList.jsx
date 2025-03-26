@@ -1,34 +1,38 @@
 export const ProjectsList = {
   projects: [
     {
-      name: "StratAgile HRMS",
+      name: "Map Works",
       description:
-        "Stratagile HRMS is a web-based Human Resource Management System built using React. It is designed to streamline HR processes and enhance organizational efficiency by providing a set of features for leave management, employee tracking, alumni management, branch office organization, holiday calendars, and working day schedules.",
+        "Map Works is a powerful web-based GIS (Geographic Information System) application designed to manage utilities for specific areas. Built with advanced GIS technologies and responsive web design, it enables efficient spatial data visualization, asset management, and decision-making.",
       technologies: [
         "React JS",
         "redux",
         "REST APIs",
+        "django",
         "axios",
         "material UI",
+        "antd",
+        "Leaflet",
         "CSS",
         "Git",
         "GitHub",
-        "Figma",
+        "GIS",
       ],
     },
     {
-      name: "Zymsi - Gym Membership Platform",
+      name: "E-Commerce Application",
       description:
-        "Contributed to the frontend development of Zymsi, a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
+        "Developed a feature-rich e-commerce application that allows users to browse products, add items to their cart, place orders, and manage their purchases seamlessly. Designed with a user-friendly interface and efficient order processing for a smooth shopping experience.",
       technologies: [
         "React JS",
         "REST APIs",
+        "django",
         "axios",
         "material UI",
         "CSS",
         "Git",
         "GitHub",
-        "Figma",
+        "",
       ],
     },
     {
@@ -38,45 +42,18 @@ export const ProjectsList = {
       technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Figma"],
     },
     {
-      name: "Dashboard Panel",
+      name: "Simple Stockmarket",
       description:
-        "User Admin Dashboard created with React js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, four different Charts, three different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.",
-      technologies: ["React JS", "Material UI"],
+        "Developed a key module for real-time data visualization in charts and stock-saving functionality as part of a larger proprietary startup product.",
+      technologies: ["React JS", "FastAPI", "Web Sockets"],
     },
     {
-      name: "Grid Line Builders",
+      name: "Dashboard Template",
       description:
-        "Grid line builders is a static webpage built with HTML, CSS, and JavaScript. Users can see images of their work and contact information that helps to connect the home builders through a webpage. webpage builds responsive to multiple sizes of devices.",
-      technologies: ["HTML", "CSS", "JavaScript"],
+        "Designed and developed an advanced dashboard with interactive elements and animations, enhancing user engagement and data interpretation. Utilized Redux and state management hooks to ensure seamless data flow and performance optimization.",
+      technologies: ["Reactjs", "Redux", "Three.js", "bootstrap", "antd", "material UI", ],
     },
-    {
-      name: "Netflix-Clone",
-      description:
-        "This project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie.",
-      technologies: [
-        "React JS",
-        "REST APIs",
-        "axios",
-        "CSS",
-        "Git",
-        "GitHub",
-        "Figma",
-      ],
-    },
-    {
-      name: "Olx-Clone",
-      description:
-        "Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks",
-      technologies: [
-        "React JS",
-        "Firebase",
-        "REST APIs",
-        "axios",
-        "CSS",
-        "Git",
-        "GitHub",
-        "Figma",
-      ],
-    },
+   
+   
   ],
 };
