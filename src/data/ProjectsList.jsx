@@ -39,7 +39,7 @@ export const ProjectsList = {
       name: "Personal Portfolio",
       description:
         "My portfolio is a website built with React.js and Tailwind CSS, utilizing React Router v6 to enable easy access to multiple pages. It was designed and created entirely by myself, showcasing my skills and projects. The website is responsive and visually appealing, providing a user-friendly experience.",
-      technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Figma"],
+      technologies: ["React JS", "Tailwind CSS", "Git", "GitHub"],
     },
     {
       name: "Simple Stockmarket",
