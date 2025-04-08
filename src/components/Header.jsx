@@ -121,7 +121,9 @@ const Header = () => {
               Contact
             </p>
           </Link>
-          <div>
+
+
+          {/* <div>
             <button
               onClick={() => {
                 window.open(resumeUrl);
@@ -130,7 +132,9 @@ const Header = () => {
             >
               Resume
             </button>
-          </div>
+          </div> */}
+
+
         </div>
       </nav>
       <div className="block lg:hidden">
