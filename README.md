@@ -42,7 +42,7 @@ https://reactjsexample.com/24-best-free-open-source-react-portfolio-page-templat
 
 ## Contact Information
 
-You can reach out to me via email at [shettyshailendra33@gmail.com](mailto:shailendrashetty33@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shailendra-shetty-553b421a1/).
+You can reach out to me via email at [shettyshailendra33@gmail.com](mailto:shailendrashetty33@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shailendra-shetty/).
 
 Feel free to explore my portfolio and learn more about my skills and projects. Thank you for visiting! 🙏
 
